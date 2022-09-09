@@ -1,12 +1,12 @@
 # ML_modulo2_UsoDeFrameWork_A00828570
 
 # Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)
+# Nombre del proyecto: Copy_of_UsoDeFramework_A00828570
+
 
 Concentración: Inteligencia Artificial Avanzada para la ciencia de datos
 
 Descripción de la entrega: Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...
-
-# Nombre del proyecto: Copy_of_UsoDeFramework_A00828570
 
 # Modelo de aprendizaje supervisado implementado: Decision Trees
 
