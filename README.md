@@ -34,19 +34,19 @@ Valores de entrada:
 Valor esperado: Cultivar 1 | Pred: Cultivar 1
 
 
-14.21  
-4.04   
-2.44   
-18.9  
-111.      
-2.85    
-2.65    
-0.3     
-1.25
-5.24    
-0.87    
-3.33 
-1080.  
+* Alcohol = 14.21  
+* Malic acid = 4.04   
+* Ash = 2.44   
+* Alcalinity = 18.9  
+* Magnesium = 111.      
+* Total phenols = 2.85    
+* Flavanoids = 2.65    
+* Nonflavanoid phenols = 0.3     
+* Proanthocyanins = 1.25
+* Color intensity = 5.24    
+* Hue = 0.87    
+* OD280/OD315 of diluted wines = 3.33 
+* Proline = 1080.  
 
 Esperado:  Cultivar 1  | Pred:  Cultivar 1
 
