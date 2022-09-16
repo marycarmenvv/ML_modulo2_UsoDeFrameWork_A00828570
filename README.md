@@ -1,7 +1,7 @@
 # ML_modulo2_UsoDeFrameWork_A00828570
 
 # Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)
-# Nombre del proyecto: Copy_of_UsoDeFramework_A00828570
+# Nombre del proyecto: FINAL_DecisionTrees_UsoDeFramework_A00828570
 
 
 Concentración: Inteligencia Artificial Avanzada para la ciencia de datos
@@ -12,7 +12,94 @@ Descripción de la entrega: Usa un marco de trabajo o framework para implementar
 
 Con el fin de comparar ambos desempeños con el mismo clasificador, fueron utilizados 2 datasets siendo: 
 * iris.csv (Obteniéndose un Accuracy: 1.00)
-*  wine.data (Obteniéndose un Accuracy: 0.916)
+*  wine.data (Obteniéndose un Accuracy: 0.94)
+
+# 5 predicciones de prueba (con el dataset de Wine): 
+
+Valores de entrada:
+'Alcohol' = 13.64
+'Malic acid' =  3.1 
+'Ash' =    2.56 
+'Alcalinity of ash' =   15.2  
+'Magnesium' =  116. 
+'Total phenols' = 2.7  
+'Flavanoids' =  3.03   
+'Nonflavanoid phenols' =   0.17 
+'Proanthocyanins' = 1.66 
+'Color intensity' = 5.1
+'Hue' = 0.96  
+'OD280/OD315 of diluted wines' = 3.36
+'Proline' = 845.
+
+Valor esperado: Cultivar 1 | Pred: Cultivar 1
+
+
+14.21  
+4.04   
+2.44   
+18.9  
+111.      
+2.85    
+2.65    
+0.3     
+1.25
+5.24    
+0.87    
+3.33 
+1080.  
+
+Esperado:  Cultivar 1  | Pred:  Cultivar 1
+
+12.93   
+2.81   
+2.7   
+21.    
+96.     
+1.54   
+0.5    
+0.53   
+0.75   
+4.6
+0.77   
+2.31 
+600.  
+
+Esperado:  Cultivar 3  | Pred:  Cultivar 3
+
+13.73   
+1.5     
+2.7    
+22.5   
+101.      
+3.      
+3.25    
+0.29    
+2.38
+5.7     
+1.19    
+2.71 
+1285.  
+
+Esperado:  Cultivar 1  | Pred:  Cultivar 1
+
+12.37   
+1.17   
+1.92  
+19.6   
+78.     
+2.11   
+2.     
+0.27   
+1.04   
+4.68
+1.12   
+3.48 
+510.  
+
+Esperado:  Cultivar 2  | Pred:  Cultivar 2
+
+
+
 
 # Librerías utilizadas:
 - from sklearn import tree <-- Método de Decision Tree
